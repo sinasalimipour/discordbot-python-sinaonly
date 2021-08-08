@@ -7,6 +7,7 @@ import json
 
 TOKEN= ''
 
+
 client = discord.Client()
 
 def get_quote():
